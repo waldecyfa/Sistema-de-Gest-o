@@ -1,0 +1,6 @@
+{
+  "name": "AlterarSenha",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./AlterarSenha.js"
+}

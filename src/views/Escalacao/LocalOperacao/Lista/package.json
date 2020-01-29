@@ -1,0 +1,6 @@
+{
+  "name": "Lista",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./Lista.js"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "FiltrarRelatorioCons",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./FiltrarRelatorioCons.js"
+}

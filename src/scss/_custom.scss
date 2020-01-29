@@ -1,0 +1,143 @@
+.negrito {
+    font-weight: bold;
+}
+
+// Here you can add other styles
+//-------------------------------
+
+.main .container-fluid {
+    padding: 30px;
+}
+//-------------------------------
+
+.header-usuario {
+    font-weight: bold;
+}
+
+// Login Page
+//-------------------------------
+.figure-img {
+    width: 70%;
+    margin: 0.5rem auto;
+}
+
+.marginFooterAjust {
+    margin: 0.0rem;
+}
+//-------------------------------
+
+
+//Relatório de Consolidação - Folha de Pagamento
+//-------------------------------
+.table-sm2{
+    font-size: xx-small;
+}
+// REACT BOOTSTRAP TABLE 2
+//-------------------------------
+.block {
+    table-layout: fixed;
+    overflow: auto;
+    display: block !important;
+    table-layout: auto;
+}
+
+@media(min-width: 0px) {
+    .modal-requisicao {
+        max-width: 80%;
+    }
+}
+
+.label-requisicao {
+    font-weight: bold;
+}
+
+.tabela-funcao-titulo {
+    margin: 0;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.tabela-funcao-primeiro {
+    margin: 0;
+    font-size: 12px;
+    border-top: 1px dashed #2f353a;
+}
+
+.tabela-funcao {
+    margin: 0;
+    font-size: 12px;
+}
+
+.tabela-funcao-total {
+    margin: 0;
+    font-size: 12px;
+    border-top: 1px dashed #2f353a;
+    font-weight: bold;
+}
+
+// LISTA / NOVO / EDITAR
+//-------------------------------
+
+.botao-centro {
+    text-align: center;
+}
+
+.nav-tabs .nav-link.active {
+    color: #2f353a;
+    font-weight: bold;
+    background: #f0f0f0;
+    border-color: #c8ced3;
+    border-bottom-color: #f0f0f0;
+}
+
+.tab-content > .active {
+    background-color: #f0f0f0;
+}
+
+.table {
+    display: table;
+}
+
+.table th, .table td {
+    vertical-align: middle !important;
+}
+
+.btn:not(:disabled):not(.disabled) {
+    text-decoration: none;
+}
+
+.btn-acao {
+    cursor: pointer;
+    color: #20a8d8;
+}
+
+.btn-acao:active, .btn-acao:hover {
+    color: #1985ac;
+}
+
+.select-danger {
+    border-color: #f86c6b;
+}
+
+.alert-danger {
+    width: 100%;
+}
+
+.search-label {
+    display: inline-block;
+    margin-bottom: 0;
+    font-weight: bold;
+    text-align: center;
+    margin: 0 auto 0 0;
+    width: 50%;
+}
+
+.search-prepend {
+    white-space: nowrap;
+    vertical-align: middle;
+    margin: 0 0 0 auto;
+}
+
+.oculta-filtro {
+    display: none;
+}

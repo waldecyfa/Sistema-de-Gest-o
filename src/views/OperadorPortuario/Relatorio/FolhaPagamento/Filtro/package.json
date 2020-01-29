@@ -1,0 +1,6 @@
+{
+  "name": "Filtro",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./Filtro.js"
+}
